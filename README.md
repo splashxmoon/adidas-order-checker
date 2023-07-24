@@ -1,5 +1,8 @@
 # adidas-order-checker
 
+
+Put code into a folder
+
 Make sure to create a discord bot first at https://discord.com/developers/applications
 
 Use the bot token and client id, and use it in .env file
